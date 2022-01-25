@@ -1,8 +1,6 @@
-/// Support for doing something awesome.
-///
-/// More dartdocs go here.
+/// Reference used on this package https://flutterappworld.com/app-http-client/
+
 library app_http_client;
 
-export 'src/app_http_client_base.dart';
-
-// TODO: Export any libraries intended for clients of this package.
+export 'src/base_http_exception.dart';
+export 'src/http_client.dart';
